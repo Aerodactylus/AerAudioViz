@@ -27,4 +27,4 @@ class Audio:
         :return: librosa.display.AdaptiveWaveplot object
         """
         plt.figure(figsize=figsize)
-        return librosa.display.waveshow(self.audio, sr=self.sample_rate)
+        return librosa.display.waveshow(self.audio, sr=self.sample_rate, color='blue')
