@@ -16,4 +16,6 @@ Include as a dependency in your project by using `poetry add git+ssh://git@githu
 To install with `poetry` for local development, clone the repository and run `poetry install --all-extras` in the root directory of the project.
 
 ## Usage Example
-`aeraudioviz` was used to create the video for the album *Jetsam Dreams* by *Aerodactylus* which you can view [here on YouTube](https://youtu.be/vkKwFKCnxnw). The code used to generate that video can be found in the the IPython Notebooks in the [*Aerodactylus/JetsamDreams* GitHub repository](https://github.com/Aerodactylus/JetsamDreamsVideo/). Thes IPython Notebooks provide a full demonstration of the `aeraudioviz` workflow. 
+`aeraudioviz` was used to create the video for the album *Jetsam Dreams* by *Aerodactylus* which you can view [here on YouTube](https://youtu.be/vkKwFKCnxnw). 
+
+The code used to generate that video can be found in the the IPython Notebooks in the [*Aerodactylus/JetsamDreams* GitHub repository](https://github.com/Aerodactylus/JetsamDreamsVideo/). Thes IPython Notebooks provide a full demonstration of the `aeraudioviz` workflow. 
